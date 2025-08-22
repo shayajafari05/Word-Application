@@ -21,8 +21,7 @@ A powerful and user-friendly Word-style application built in C#, designed to han
 - System.Speech for speech synthesis
 - RichTextBox for styled text editing
 - 📦 Installation
-- Clone the repository:
-git clone https://github.com/your-username/csharp-word-app.git
+- Clone the repository
 - Open the solution in Visual Studio
 - Build and run the project
 
